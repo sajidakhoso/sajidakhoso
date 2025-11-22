@@ -41,9 +41,9 @@ Software Engineer with a focus on **AI/ML**, **Data Science**, **Deep Learning**
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [sajida.khoso@example.com](mailto:sajida.khoso@example.com)  
+- 📧 Email: [skservices981@gmail.com](mailto:skservices981@gmail.com)  
 - 💼 LinkedIn: [sajida-khoso](https://www.linkedin.com/in/sajida-khoso/)  
-- 🌐 Portfolio: [sajidakhoso.com](https://sajidakhoso.com/)  
+- 🌐 Kaggle: [sajidakhoso](https://www.kaggle.com/sajidakhoso)
 
 ---
 
@@ -51,13 +51,8 @@ Software Engineer with a focus on **AI/ML**, **Data Science**, **Deep Learning**
 <p align="left">
   
   <a href="https://www.linkedin.com/in/sajida-khoso/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="https://linktr.ee/sajidakhoso"><img src="https://img.shields.io/badge/Linktree-43E55E?logo=Linktree&logoColor=white&style=for-the-badge" alt="Linktree"/></a>
-  <a href="https://leetcode.com/sajidakhoso/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white&style=for-the-badge" alt="LeetCode"/></a>
-  <a href="https://www.geeksforgeeks.org/user/sajidakhoso/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=GeeksforGeeks&logoColor=white&style=for-the-badge" alt="GeeksforGeeks"/></a>
   <a href="https://www.kaggle.com/sajidakhoso"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=for-the-badge" alt="Kaggle"/></a>
-  <a href="https://lablab.ai/u/@sajidakhoso"><img src="https://img.shields.io/badge/LaBLab.ai-000000?logo=data:image/svg+xml;base64,...&style=for-the-badge" alt="LaBLab.ai"/></a>
-  <a href="https://medium.com/@sajidakhoso"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium"/></a>
-  <a href="mailto:sajida.khoso@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
+  <a href="mailto:skservices981@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
 </p>
 
 ---
