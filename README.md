@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sajida Khoso</h1>
-<h3 align="center">Software Engineer | AI/ML Enthusiast | Data Science Explorer</h3>
+<h3 align="center">Software Engineer | AI/ML Enthusiast | Python Developer</h3>
 
 ---
 
@@ -41,7 +41,7 @@ Software Engineer with a focus on **AI/ML**, **Data Science**, **Deep Learning**
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [skservices981@gmail.com](mailto:skservices981@gmail.com)  
+- 📧 Email: [sajidakhoso471@gmail.com](mailto:sajidakhoso471@gmail.com)  
 - 💼 LinkedIn: [sajida-khoso](https://www.linkedin.com/in/sajida-khoso/)  
 - 🌐 Kaggle: [sajidakhoso](https://www.kaggle.com/sajidakhoso)
 
