@@ -41,10 +41,11 @@ Software Engineer with a focus on **AI/ML**, **Data Science**, **Deep Learning**
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [sajidakhoso471@gmail.com](mailto:sajidakhoso471@gmail.com)  
-- 💼 LinkedIn: [sajida-khoso](https://www.linkedin.com/in/sajida-khoso/)  
-- 🌐 Kaggle: [sajidakhoso](https://www.kaggle.com/sajidakhoso)
-
+- Email: [sajidakhoso471@gmail.com](mailto:sajidakhoso471@gmail.com)  
+- LinkedIn: [sajida-khoso](https://www.linkedin.com/in/sajida-khoso/)  
+- Kaggle: [sajidakhoso](https://www.kaggle.com/sajidakhoso)
+- Portfolio: [sajidakhoso](https://sajidakhoso.netlify.app/)
+- 
 ---
 
 ## 🌐 Socials
