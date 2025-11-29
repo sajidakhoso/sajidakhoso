@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sajida Khoso</h1>
-<h3 align="center">Software Engineer | AI/ML Enthusiast | Python Developer</h3>
+<h3 align="center">Python Developer | A/ML Engineer | Artificial Intelligence Learner</h3>
 
 ---
 
